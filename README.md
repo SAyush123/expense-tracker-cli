@@ -13,7 +13,7 @@ Add, view, filter, and calculate total expenses by category.
 - Filter expenses by category
 - Exit option with clean UI
 
-## 🖥 How It Works
+##  How It Works
 
 Run the program using:
 
